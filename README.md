@@ -1,2 +1,2 @@
-# carracing-game-class-34
-c34
+# synchronousBallMovement
+Ball moving synchronously
